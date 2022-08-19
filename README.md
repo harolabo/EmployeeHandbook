@@ -1,2 +1,1 @@
-# EmployeeHandbook
-就業規則
+# 就業規則
